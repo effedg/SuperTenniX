@@ -1,0 +1,33 @@
+
+.card {
+    transition: transform 0.3s, box-shadow 0.3s;
+}
+.card:hover {
+    transform: translateY(-10px);
+    box-shadow: 0 10px 20px #ff552a;
+}
+h1 {
+    font-size: 100%;
+    font-weight: bold;
+}
+
+.nav2{
+    background-color: #42b3db;
+}
+
+.foot1{
+    background-color: #42b3db;
+}
+
+.color{
+    color: #ff552a; 
+}
+
+.colorB{
+   background-color:#ff552a;
+   border-radius: 15px;
+   border: solid 5px;
+   border-color: #42b3db;
+}
+
+
