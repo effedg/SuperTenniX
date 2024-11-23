@@ -31,3 +31,59 @@ h1 {
 }
 
 
+
+.container {
+max-width: 800px;
+margin: 50px auto;
+padding: 20px;
+border-radius: 10px;
+box-shadow: #ff552a;
+}
+
+
+.counters {
+display: flex;
+justify-content: space-around;
+flex-wrap: wrap;
+}
+
+.counter {
+margin: 20px;
+padding: 20px;
+background: #f9f9f9;
+border: 1px solid #ff552a;
+border-radius: 10px;
+width: 180px;
+text-align: center;
+}
+
+.counter h2 {
+font-size: 2.5em;
+color: #ff552a;
+margin: 10px 0;
+}
+
+.counter p {
+font-size: 1em;
+color: #ff552a;
+}
+
+.count {
+font-weight: bold;
+color: #42b3db;
+}
+
+
+.carousel {
+    position: relative;
+    width: 100%;
+    max-width: 800px; 
+    margin: 0 auto; 
+    overflow: hidden; 
+    border: 20px solid #42b3db;
+    border-radius: 10px;
+    background-color: #42b3db;
+    color: #ff552a;
+    text-align: center;
+  }
+
