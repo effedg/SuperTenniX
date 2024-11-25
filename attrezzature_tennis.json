@@ -1,0 +1,92 @@
+[
+    {
+        "nome": "Wilson Pro Staff 97",
+        "descrizione": "Una racchetta ad alte prestazioni utilizzata dai professionisti.",
+        "prezzo": 259.99,
+        "immagine": "https://www.tennispro.it/media/catalog/product/cache/6/thumbnail/1200x/9df78eab33525d08d6e5fb8d27136e95/w/r/wr125911u_1.jpg"
+    },
+    {
+        "nome": "Babolat Pure Drive",
+        "descrizione": "Ideale per chi cerca potenza e controllo.",
+        "prezzo": 199.99,
+        "immagine": "https://www.tennis-point.it/dw/image/v2/BBDP_PRD/on/demandware.static/-/Sites-master-catalog/default/dw2ec0f9d8/images/009/051/02743000_000.jpg?q=80&sw=2000"
+    },
+    {
+        "nome": "Yonex VCORE 98",
+        "descrizione": "Perfetta per giocatori avanzati che cercano spin e velocit\u00e0.",
+        "prezzo": 230.0,
+        "immagine": "https://www.tennis-point.it/dw/image/v2/BBDP_PRD/on/demandware.static/-/Sites-master-catalog/default/dw35605ed4/images/019/068/01946000_000.jpg?q=80&sw=2000"
+    },
+    {
+        "nome": "Head Radical MP",
+        "descrizione": "Racchetta versatile per giocatori a tutto campo.",
+        "prezzo": 220.0,
+        "immagine": "https://cdn.racketpedia.com/media/rackets-data-sheets/503/orig/head-graphene-touch-radical-mp-2018-df041e2a-b8d8-4084-903d-7330d4704c82.jpg"
+    },
+    {
+        "nome": "Dunlop FX 500",
+        "descrizione": "Eccellente equilibrio tra potenza e comfort.",
+        "prezzo": 180.0,
+        "immagine": "https://www.tennispro.it/media/catalog/product/cache/6/thumbnail/1200x/9df78eab33525d08d6e5fb8d27136e95/1/0/10335789_1.jpg"
+    },
+    {
+        "nome": "Prince Phantom 100X",
+        "descrizione": "Leggerezza e precisione per i giocatori esperti.",
+        "prezzo": 250.0,
+        "immagine": "https://www.tennispro.it/media/catalog/product/cache/6/thumbnail/1200x/9df78eab33525d08d6e5fb8d27136e95/7/t/7t55x491_1.jpg"
+    },
+    {
+        "nome": "Tecnifibre T-Fight RS",
+        "descrizione": "Ottima racchetta per un gioco aggressivo.",
+        "prezzo": 210.0,
+        "immagine": "https://tennishub.in/media/catalog/product/cache/801dbd1816b9f078a7689f41e4b816bf/image/115237bb01/tecnifibre-tfight-300-rs-used-tennis-racquet-8-10.jpg"
+    },
+    {
+        "nome": "Wilson Blade 98",
+        "descrizione": "Per giocatori che cercano feeling e controllo massimo.",
+        "prezzo": 240.0,
+        "immagine": "https://www.tennis-point.it/dw/image/v2/BBDP_PRD/on/demandware.static/-/Sites-master-catalog/default/dw25bd4bc3/images/007/056/03694000_000.jpg?q=80&sw=2000"
+    },
+    {
+        "nome": "Head Speed Pro",
+        "descrizione": "Racchetta veloce per chi gioca d\u2019attacco.",
+        "prezzo": 260.0,
+        "immagine": "https://www.tennispro.it/media/catalog/product/cache/6/thumbnail/1200x/9df78eab33525d08d6e5fb8d27136e95/2/3/233602_1.jpg"
+    },
+    {
+        "nome": "Babolat Aero",
+        "descrizione": "Spin eccezionale per il controllo dei colpi.",
+        "prezzo": 190.0,
+        "immagine": "https://media.babolat.com/image/upload/f_auto,q_auto,c_pad,w_3024,h_3024/v1665153974/Product_Media/2023/TENNIS_RACKETS/EXPERT/101512-Pure_Aero_Rafa_293-371-1-Face.png"
+    },
+    {
+        "nome": "Yonex EZONE 100",
+        "descrizione": "Potenza facile da gestire per tutti i livelli.",
+        "prezzo": 220.0,
+        "immagine": "https://www.tennis-point.it/dw/image/v2/BBDP_PRD/on/demandware.static/-/Sites-master-catalog/default/dwc58d2fd5/images/019/058/01868000_000.jpg?q=80&sw=2000"
+    },
+    {
+        "nome": "Wilson Ultra 100",
+        "descrizione": "Perfetta per giocatori che amano colpire con forza.",
+        "prezzo": 210.0,
+        "immagine": "https://www.tennispro.it/media/catalog/product/cache/6/thumbnail/1200x/9df78eab33525d08d6e5fb8d27136e95/w/r/wr108311u_1.jpg"
+    },
+    {
+        "nome": "Head Gravity MP",
+        "descrizione": "Design moderno e ottimo sweetspot.",
+        "prezzo": 230.0,
+        "immagine": "https://www.sportega.it/racchetta-da-tennis-head-graphene-360-gravity-mp-lite-2021-94837-818x818-g1.webp"
+    },
+    {
+        "nome": "Babolat Strike 98",
+        "descrizione": "Racchetta stabile per il massimo controllo.",
+        "prezzo": 200.0,
+        "immagine": "https://www.tennispro.it/media/catalog/product/cache/6/thumbnail/1200x/9df78eab33525d08d6e5fb8d27136e95/1/0/101524_1.jpg"
+    },
+    {
+        "nome": "Prince Textreme Tour",
+        "descrizione": "Comfort e stabilit\u00e0 in ogni colpo.",
+        "prezzo": 240.0,
+        "immagine": "https://cdn.racketpedia.com/media/rackets-data-sheets/1747/orig/prince-textreme-tour-100t-290-g-2018-d14f4357-50e9-4ba5-88cc-ae380c67ae2b.jpg"
+    }
+]

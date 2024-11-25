@@ -75,9 +75,7 @@ color: #42b3db;
 
 
 .carousel {
-    position: relative;
-    width: 100%;
-    max-width: 800px; 
+background-size: cover;
     margin: 0 auto; 
     overflow: hidden; 
     border: 20px solid #42b3db;
@@ -86,4 +84,10 @@ color: #42b3db;
     color: #ff552a;
     text-align: center;
   }
+
+.cerca{
+    background-color: #ff552a;
+    border-radius: 10px;
+    border-color: #ff552a;
+}
 
