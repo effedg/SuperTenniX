@@ -66,33 +66,90 @@ Prodotti
 </nav>
 
 
-
-<div class="container">
-    <h1 class="text-center color">Le nostre racchette</h1> <div class="row" id="productsWrapper">
-       
-    </div>
+<!--Filtra-->
+<div class="accordion accordion-flush" id="accordionFlushExample">
+<div class="accordion-item">
+<h2 class="accordion-header">
+<div class="accordion-item">
+<h2 class="accordion-header">
+<button class="accordion-button collapsed " type="button" data-bs-toggle="collapse" data-bs-target="#collapseTwo" aria-expanded="false" aria-controls="collapseTwo">
+Filtra per prezzo
+</button>
+</h2>
+<div id="collapseTwo" class="accordion-collapse collapse " data-bs-parent="#accordionExample">
+<div class="accordion-body">
+<input  id="priceInput" type="range" class="prezzo"  >
+<p id="priceNumber" ></p>
 </div>
+</div>
+</div>
+</div>
+</div>
+</div>
+<!--Fine filter-->
 
 
-
-
-
-
-
-
-
-
+<!--Contenitore Cards-->
+<div class="container">
+<h1 class="text-center color">Le nostre palline da tennis</h1> 
+<div class="row" id="productsWrapper">
     
+</div>
+</div>
+<!--Fine contenitore-->
 
 
 
 
+<!--Pages-->
+<nav aria-label="Page navigation example">
+<ul class="pagination justify-content-center">
+<li class="page-item disabled">
+<li class="page-item"><a class="page-link" href="home.html">Home</a></li>
+<li class="page-item"><a class="page-link" href="raccehtte.html">1</a></li>
+<li class="page-item"><a class="page-link" href="borse.html">2</a></li>
+<li class="page-item"><a class="page-link" href="palline.html">3</a></li>
+<li class="page-item">
+<a class="page-link" href="#">Avanti</a>
+</li>
+</ul>
+</nav>
+<!--Fine Pages-->
 
 
-
-<!-- Footer -->
-<footer class="foot1 text-white text-center py-3">
-<p>&copy; 2024 SuperTenniX.</p>
+<!--Footer-->
+<footer class="foot1 text-white  py-4">
+<div class="container">
+<div class="row">
+<div class="col-md-4 mb-3">
+<h5 class="fw-bold">SuperTennix.com</h5>
+<p>Via dei Campioni, 123<br>
+00100 Roma, Italia</p>
+<p>Email: info@supertennix.com<br>
+Telefono: +39 06 1234 5678</p>
+</div>
+<div class="col-md-4 mb-3 text-center">
+<h5 class="fw-bold">Seguici sui social</h5>
+<div>
+<a href="https://www.facebook.com" target="_blank" class="text-white me-3">
+<i class="bi bi-facebook fs-3"></i>
+</a>
+<a href="https://www.instagram.com" target="_blank" class="text-white me-3">
+<i class="bi bi-instagram fs-3"></i>
+</a>
+<a href="https://www.tiktok.com" target="_blank" class="text-white me-3">
+<i class="bi bi-tiktok fs-3"></i>
+</a>
+<a href="https://www.twitter.com" target="_blank" class="text-white me-3">
+<i class="bi bi-twitter-x fs-3"></i>
+</a>
+</div>
+</div>
+<div class="col-md-4 mb-3 text-md-end text-center">
+<p class="mb-0">© 2024 SuperTennix.com</p>
+</div>
+</div>
+</div>
 </footer>
 <!--Fine Footer-->
 
@@ -105,7 +162,7 @@ Prodotti
 AOS.init();
 </script>
 <!--JS Personale-->
-<script src="scriptRacch.js"></script>
+<script src="scriptPALL.js"></script>
 <!--JS Bootstrap-->
 <script src="https://cdn.jsdelivr.net/npm/bootstrap@5.3.0-alpha3/dist/js/bootstrap.bundle.min.js"></script>
 </script>

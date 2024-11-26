@@ -1,0 +1,72 @@
+[
+    {
+        "id": 1,
+        "name": "Wilson Pro Staff Super Tour",
+        "description": "Borsa per 9 racchette, con compartimenti isolati e tasche multiple.",
+        "price": 89.95,
+        "image": "https://www.tennis-point.it/dw/image/v2/BBDP_PRD/on/demandware.static/-/Sites-master-catalog/default/dwd0976720/images/007/362/0232800000_0_2.jpg?q=80&sw=2000"
+    },
+    {
+        "id": 2,
+        "name": "Head Tour Team Racquet Bag",
+        "description": "Borsa per 6 racchette, con spallacci imbottiti e ampi spazi interni.",
+        "price": 59.95,
+        "image": "https://racquetguys.ca/cdn/shop/files/HEAD_283482_Tour_Team_6R_Combo_Black_Mint_1.jpg?v=1721243866"
+    },
+    {
+        "id": 3,
+        "name": "Babolat Pure Drive VS",
+        "description": "Borsa da 12 racchette con scomparti ventilati per scarpe e indumenti.",
+        "price": 79.99,
+        "image": "https://www.tennis-point.it/dw/image/v2/BBDP_PRD/on/demandware.static/-/Sites-master-catalog/default/dw1293afa8/images/009/351/0180000000_000.jpg?q=80&sw=2000"
+    },
+    {
+        "id": 4,
+        "name": "Yonex Pro Racquet Bag 9R",
+        "description": "Borsa spaziosa con compartimenti termici e tasca per accessori.",
+        "price": 105.95,
+        "image": "https://www.tennis-point.it/dw/image/v2/BBDP_PRD/on/demandware.static/-/Sites-master-catalog/default/dw7ca2719c/images/019/367/0157800000_0_2.jpg?q=80&sw=2000"
+    },
+    {
+        "id": 5,
+        "name": "Tecnifibre Tour Endurance",
+        "description": "Borsa compatta con spazio per 3 racchette e tessuto impermeabile.",
+        "price": 82.95,
+        "image": "https://racketnow.com/cdn/shop/products/60987-67_004_1400x.png?v=1677018353"
+    },
+    {
+        "id": 6,
+        "name": "Wilson Roland Garros",
+        "description": "Borsa elegante per 9 racchette, con design ispirato al torneo Roland Garros.",
+        "price": 103.95,
+        "image": "https://www.tennis-point.it/dw/image/v2/BBDP_PRD/on/demandware.static/-/Sites-master-catalog/default/dw3a87a4f2/images/007/366/0240700000__10.jpg?q=80&sw=2000"
+    },
+    {
+        "id": 7,
+        "name": "Artengo Tennis Bag L TEAM",
+        "description": "Borsa versatile per 9 racchette, ideale per tornei e allenamenti.",
+        "price": 39.99,
+        "image": "https://contents.mediadecathlon.com/p2295867/k$3b9f8b8a088b4f08d4aaa9746d065137/picture.jpg"
+    },
+    {
+        "id": 8,
+        "name": "Dunlop CX Club 6R",
+        "description": "Borsa per 6 racchette, con tessuto resistente e spallacci regolabili.",
+        "price": 54.90,
+        "image": "https://www.tennis-point.it/dw/image/v2/BBDP_PRD/on/demandware.static/-/Sites-master-catalog/default/dwe5c9ae79/images/016/366/0156600000__10.jpg?q=80&sw=2000"
+    },
+    {
+        "id": 9,
+        "name": "Head Pro X L",
+        "description": "Borsa premium con spazio per 12 racchette e tasche termiche per protezione.",
+        "price": 97.90,
+        "image": "https://cdn-mdb.head.com/CDN3/D/260203/1/1200x1200/pro-racquet-bag-xl-dyfo.webp"
+    },
+    {
+        "id": 10,
+        "name": "Wilson Blade Super Tour",
+        "description": "Borsa di alta qualità per 15 racchette, perfetta per i professionisti.",
+        "price": 114.99,
+        "image": "https://www.tennis-point.it/dw/image/v2/BBDP_PRD/on/demandware.static/-/Sites-master-catalog/default/dw171756e1/images/007/366/0240600000__10.jpg?q=80&sw=2000"
+    }
+]

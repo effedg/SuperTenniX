@@ -21,6 +21,7 @@ h1 {
 
 .color{
     color: #ff552a; 
+   
 }
 
 .colorB{
@@ -28,6 +29,7 @@ h1 {
    border-radius: 15px;
    border: solid 5px;
    border-color: #42b3db;
+   background-position: center;
 }
 
 
@@ -90,4 +92,5 @@ background-size: cover;
     border-radius: 10px;
     border-color: #ff552a;
 }
+
 

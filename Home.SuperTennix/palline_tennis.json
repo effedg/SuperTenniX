@@ -1,0 +1,72 @@
+[
+    {
+        "id": 1,
+        "name": "Wilson US Open",
+        "description": "Palline ufficiali dello US Open, adatte a tutte le superfici.",
+        "price": 8.99,
+        "image": "https://www.tennis-point.it/dw/image/v2/BBDP_PRD/on/demandware.static/-/Sites-master-catalog/default/dwd795bdd9/images/007/226/0153700000_000.jpg?q=80&sw=2000"
+    },
+    {
+        "id": 2,
+        "name": "Head Tour",
+        "description": "Ideali per tornei professionali, con feltro premium.",
+        "price": 7.5,
+        "image": "https://www.tennis-point.it/dw/image/v2/BBDP_PRD/on/demandware.static/-/Sites-master-catalog/default/dw974ed0b3/images/006/246/0151600000__10.jpg?q=80&sw=2000"
+    },
+    {
+        "id": 3,
+        "name": "Babolat Gold Championship",
+        "description": "Palline resistenti per partite su campi duri.",
+        "price": 6.99,
+        "image": "https://www.tennispro.it/media/catalog/product/cache/6/thumbnail/1200x/9df78eab33525d08d6e5fb8d27136e95/3/5/350100045_1.jpg"
+    },
+    {
+        "id": 4,
+        "name": "Dunlop ATP Tennis",
+        "description": "Certificazione ATP, perfette per giocatori avanzati.",
+        "price": 9.2,
+        "image": "https://www.tennis-point.it/dw/image/v2/BBDP_PRD/on/demandware.static/-/Sites-master-catalog/default/dwb414c970/images/016/246/0164400000_000.jpg?q=80&sw=2000"
+    },
+    {
+        "id": 5,
+        "name": "Wilson Roland Garros",
+        "description": "Palline ufficiali del Roland Garros, ottime su terra battuta.",
+        "price": 8.3,
+        "image": "https://www.nonessport.it/75951-large_default/wilson-palline-roland-garros-per-tutti-i-tipi-di-campo-4-pz.jpg"
+    },
+    {
+        "id": 6,
+        "name": "Slazenger Wimbledon",
+        "description": "Palline ufficiali di Wimbledon, con feltro super premium.",
+        "price": 10.0,
+        "image": "https://www.tennis-point.it/dw/image/v2/BBDP_PRD/on/demandware.static/-/Sites-master-catalog/default/dw7bdc8b12/images/017/267/0125000000_000.jpg?q=80&sw=2000"
+    },
+    {
+        "id": 7,
+        "name": "Tecnifibre X-One",
+        "description": "Palline ad alte prestazioni per competizioni.",
+        "price": 11.5,
+        "image": "https://www.tennis-point.it/dw/image/v2/BBDP_PRD/on/demandware.static/-/Sites-master-catalog/default/dw8d3e4f74/images/012/218/0124900000_000.jpg?q=80&sw=2000"
+    },
+    {
+        "id": 8,
+        "name": "Babolat Team Clay",
+        "description": "Perfette per campi in terra battuta.",
+        "price": 6.5,
+        "image": "https://www.tennis-point.it/dw/image/v2/BBDP_PRD/on/demandware.static/-/Sites-master-catalog/default/dw585e05b3/images/009/250/0139800000_000.jpg?q=80&sw=2000"
+    },
+    {
+        "id": 9,
+        "name": "Dunlop Fort Clay",
+        "description": "Durata eccellente su campi in terra.",
+        "price": 7.8,
+        "image": "https://www.tennis-point.it/dw/image/v2/BBDP_PRD/on/demandware.static/-/Sites-master-catalog/default/dw47805ffc/images/016/246/0162300000_0_1.jpg?q=80&sw=2000"
+    },
+    {
+        "id": 10,
+        "name": "Head Championship",
+        "description": "Palline versatili per allenamento e gioco amatoriale.",
+        "price": 5.99,
+        "image": "https://www.dmpsport.it/wp-content/uploads/2021/03/Head-Championship-Palline-Tennis_a.jpeg"
+    }
+]
